@@ -14,7 +14,7 @@ Page_count
 Rating
 Genre (top 2)
 Publisher
-First_published
+First_published_date
 
 **Output**: book_covers_dataset_with_goodreads.csv
 
@@ -76,4 +76,4 @@ lxml>=4.9.0
 
 ## Author
 This project was developed by Patricia Gimenez
-Ironhack Data Analytics Bootcamp – Project 1
+Ironhack - Data Science & Machine Learning Bootcamp – Project 1
